@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.kaching.platform</groupId>
-  <artifactId>converters</artifactId>
+  <artifactId>instantiators</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
   <name>Converters</name>
